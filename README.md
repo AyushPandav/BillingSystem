@@ -37,9 +37,11 @@ A lightweight, user-friendly **Invoice & Billing System** built with **Laravel 1
 
 ## 📸 Screenshots
 
-| Dashboard | Transaction History 
-|---------|---------------|------------------|-------------|
-| ![Dashboard](./img/dashboard.png) | ![Create](./img/transaction-history.png) 
+![Billing System Screenshot](https://raw.githubusercontent.com/AyushPandav/billingsystem/main/public/img/dashboard.png)
+
+![Billing System Screenshot](https://raw.githubusercontent.com/AyushPandav/billingsystem/main/public/img/transaction-history.png)
+
+
 
 > All screenshots are in `public/img/` folder
 
